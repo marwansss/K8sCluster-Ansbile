@@ -16,7 +16,7 @@
     - role: init_node
 
 
-#    - role: master
+    - role: master
 
 
     - role: worker
